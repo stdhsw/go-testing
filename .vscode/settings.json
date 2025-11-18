@@ -1,0 +1,7 @@
+{
+  "go.testEnvVars": {
+    "ENV_A": "AAA",
+    "ENV_B": "BBB",
+    "ENV_C": "CCC",
+  }
+}
